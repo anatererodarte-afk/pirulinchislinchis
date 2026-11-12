@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"ES2022","module":"NodeNext","moduleResolution":"NodeNext","types":["node"],"strict":true,"skipLibCheck":true,"noEmit":true,"allowImportingTsExtensions":true},"include":["db/**/*.ts","netlify/functions/**/*.mts","tests/**/*.mts","drizzle.config.ts"]}
